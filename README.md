@@ -1,7 +1,3 @@
-Here's a **README.md** file for your project:  
-
----
-
 # Hyperspectral Mycotoxin Prediction  
 
 ## 📌 Project Overview  
@@ -90,11 +86,3 @@ streamlit run app.py
 ✔ Implement transformers for spectral feature extraction.  
 ✔ Build a **Streamlit-based interactive app** for predictions.  
 ✔ Experiment with **GNNs, CNNs, and LSTMs** for hyperspectral data processing.  
-
-## 📩 Submission Details  
-- **Deadline**: March 14, 2025  
-- **Submission**: Email GitHub repo link to **satyam.kumar@imagoai.com**  
-
----
-
-Let me know if you want any modifications! 🚀

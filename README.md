@@ -2,6 +2,14 @@
 
 ## 📌 Project Overview  
 This project focuses on processing hyperspectral imaging data, performing dimensionality reduction, and training machine learning models to predict **mycotoxin levels (DON concentration)** in corn samples.  
+## 🚀 **Motivation**  
+Mycotoxins pose a serious threat to food safety and agriculture. Traditional methods for detecting mycotoxins are often slow and expensive. Hyperspectral data, which provides detailed spectral information, can improve accuracy and efficiency in detecting mycotoxins.  
+
+This project aims to:  
+✅ Develop a deep learning model capable of handling high-dimensional hyperspectral data.  
+✅ Improve prediction accuracy through dimensionality reduction and feature engineering.  
+✅ Explore advanced architectures like CNN and attention mechanisms to enhance performance.  
+
 
 ## 📂 Repository Structure  
 ```

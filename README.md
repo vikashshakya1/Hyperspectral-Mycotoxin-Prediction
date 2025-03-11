@@ -19,12 +19,7 @@ This project aims to:
 ├── 📄 **Spectral Data Analysis Report.docx** # Full model report with evaluation  
 ├── 📄 **README.md**                 # Project overview and instructions  
 ├── 📄 **requirements.txt**          # List of dependencies  
-├── 🐍 **app.py**                    # Streamlit app for predictions  
 ├── 📄 **.gitignore**                # Files to ignore in Git  
-└── 📁 **results**                   # Output plots and model logs  
-    ├── 📄 **loss_curve.png**        # Loss curve during training  
-    ├── 📄 **scatter_plot.png**      # Actual vs Predicted scatter plot  
-    └── 📄 **confusion_matrix.png**  # Confusion matrix (if classification)  
 
 
 ## 🛠 Installation & Setup  

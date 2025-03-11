@@ -13,16 +13,7 @@ This project aims to:
 
 ## 📂 Repository Structure  
 ```
-📦 Hyperspectral-Mycotoxin-Prediction
-│── 📂 data                # Dataset (if allowed) or link to download
-│── 📂 notebooks           # Jupyter Notebooks for exploration & modeling
-│── 📂 models              # Trained models and saved checkpoints
-│── 📜 requirements.txt    # Required dependencies
-│── 📜 README.md           # Project documentation
-│── 📜 report.pdf          # Short project report
-│── 📜 app.py              # Streamlit app (optional)
-│── 📜 train.py            # Training script
-│── 📜 inference.py        # Script for making predictions
+📦 Hyperspectral-Mycotoxin-Prediction ├── 📁 Dataset # Raw hyperspectral data (Excel format) ├── 📁 Model_Implementation # Jupyter Notebook with CNN model ├── 📄 Project Details.docx # Summary of project goals and findings ├── 📄 Spectral Data Analysis Report.docx # Full model report with evaluation ├── 📄 README.md # Project overview and instructions └── .gitignore # Files to ignore in Git
 ```
 
 ## 🛠 Installation & Setup  
